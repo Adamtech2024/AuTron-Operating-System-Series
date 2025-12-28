@@ -1,3 +1,8 @@
 # AuTron 26 U.M
 
-# {NOTHING YET HERE}
+- AuTron 26 U.M is perfect for older computers
+
+**Minimum Requirements**
+- Any CPU
+- >1Gb Ram
+- 30Gb Storage
