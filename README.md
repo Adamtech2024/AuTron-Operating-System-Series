@@ -7,5 +7,5 @@ This Operating System is based of Linux and it can do anything, we have the opti
 - AuTron 26 U.M is perfect for older computers (minimum req: any cpu, 500MB ram, and 30gb storage)
 
 - AuTron 26 M is perfect for old computers (minimum req: any any cpu. 450-600mb, 30gb storage)
-- 
+
 - AuTron 26 Pro (minimum req: 1Ghz cpu, +3Gb ram, 30gb storage)
