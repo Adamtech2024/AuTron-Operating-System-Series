@@ -34,6 +34,16 @@ U.M means Ultra Minimal
 
 
 
-# AuTron 26 Pro (minimum req: 1Ghz cpu, +3Gb ram, 30gb storage)
+# AuTron 26 Pro (minimum req: 1Ghz cpu, +3Gb RAM, 30Gb Storage)
 
 
+
+# AuTron 26 Enterprise **PAID** (Minimum Req: 1Ghz CPU, 1Gb RAM, 10Gb Storage)
+
+
+
+# AuTron 26 Server (Minimum Req: ```UNKNOWN```)
+
+
+
+# AuTron 26 Server+ **PAID** (Minimum Req: **Unknown**)
