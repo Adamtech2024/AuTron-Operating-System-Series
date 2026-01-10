@@ -42,7 +42,7 @@ U.M means Ultra Minimal
 
 
 
-# AuTron 26 Server (Minimum Req: ```UNKNOWN```)
+# AuTron 26 Server (Minimum Req: **UNKNOWN**)
 
 
 
